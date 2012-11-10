@@ -1,7 +1,8 @@
 === Captain Slider ===
 Contributors: captaintheme
 Donate link: http://captaintheme.com/
-Tags: captain theme, captain slider, slider, jquery slider, responsive slider, slideshow, video slider, mobile slider, flexslider
+Tags: captain theme, captain slider, slider, jquery slider, responsive slider, slideshow, video slider, mobile slider, flexslider, custom post types, Image Rotator, image slider, image slider plugin, javascript rotator, javascript slider, jquery rotator, photo rotator, Photo Slider, picture slider, responsive, responsive image slider, responsive image slider plugin, responsive rotator, responsive slider plugin, responsive slideshow, responsive slideshow plugin, rotator, shortcode, slider plugin, slideshow plugin, slider shortcode
+
 Requires at least: 3.3
 Tested up to: 3.5
 Stable tag: trunk
