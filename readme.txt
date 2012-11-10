@@ -1,5 +1,5 @@
 === Captain Slider ===
-Contributors: captaintheme, bryceadams123
+Contributors: captaintheme
 Donate link: http://captaintheme.com/
 Tags: captain theme, captain slider, slider, jquery slider, responsive slider, slideshow, video slider, mobile slider, flexslider
 Requires at least: 3.3
