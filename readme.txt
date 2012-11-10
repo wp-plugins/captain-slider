@@ -38,6 +38,8 @@ This is the Slider Plugin I always wished I had. Simply install the plugin, add 
 **Documentation:**
 [Captain Slider Documentation](http://cpthe.me/sliderdocs)
 
+*This plugin is being actively developed and improved in it's [GitHub Repository](https://github.com/bryceadams/Captain-Slider/)*
+
 == Installation ==
 
 How to install this plugin?
