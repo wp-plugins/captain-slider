@@ -105,8 +105,8 @@ line-height: 18px;
 }
 
 .entry-content .flexslider > ul > li {
-	padding-top: 0;
 	margin: 0;
+	padding-top: 0 !important;
 }
 
 .entry-content .flexslider > ol {
