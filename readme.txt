@@ -80,6 +80,11 @@ This plugin is openly developed on GitHub - [View the Repo!](https://github.com/
 
 == Changelog ==
 
+= 1.0.6 =
+
+* Minor CSS Fix for Default Wordpress Themes
+* Update CTSLIDER_VERSION constant
+
 = 1.0.5 =
 
 * General Improvements

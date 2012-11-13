@@ -5,7 +5,7 @@ Plugin URI: http://captaintheme.com/plugins/captain-slider/
 Description: Allows you to easily create multiple jQuery sliders.
 Author: Captain Theme
 Author URI: http://captaintheme.com
-Version: 1.0.5
+Version: 1.0.6
 Text Domain: ctslider
 License: GNU GPL v2
 */
@@ -29,7 +29,7 @@ if ( !defined( 'CTSLIDER_PLUGIN_URL' ) ) {
 
 // Plugin Version
 if ( !defined( 'CTSLIDER_VERSION' ) ) {
-	define( 'CTSLIDER_VERSION', '1.0.0' );
+	define( 'CTSLIDER_VERSION', '1.0.6' );
 }
 
 
