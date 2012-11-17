@@ -13,6 +13,8 @@ Probably the Best Free jQuery Slider/Slideshow Plugin for Wordpress. Responsive,
 
 This is the Slider Plugin I always wished I had. Simply install the plugin, add some slides & use your slider! It's that easy.
 
+**Premium Support is available. Just simply make a donation of $5 or more through the plugin's Settings page and then visit [Captain Theme Premium Support](http://captaintheme.com/support/). Please quote your transaction number or use the email you made the donation with. Thank you!**
+
 **Features:**
 
 * Plenty of Settings like animation, speed, etc.
