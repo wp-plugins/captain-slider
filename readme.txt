@@ -1,9 +1,9 @@
 === Captain Slider ===
-Contributors: captaintheme, bryceadams123, sunnyratilal
+Contributors: captaintheme
 Donate link: http://captaintheme.com/
 Tags: captain theme, captain slider, slider, jquery slider, responsive slider, slideshow, video slider, mobile slider, flexslider, custom post types, Image Rotator, image slider, image slider plugin, javascript rotator, javascript slider, jquery rotator, photo rotator, Photo Slider, picture slider, responsive, responsive image slider, responsive image slider plugin, responsive rotator, responsive slider plugin, responsive slideshow, responsive slideshow plugin, rotator, shortcode, slider plugin, slideshow plugin, slider shortcode
 Requires at least: 3.3
-Tested up to: 3.5
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 
@@ -13,7 +13,6 @@ Probably the Best Free jQuery Slider/Slideshow Plugin for Wordpress. Responsive,
 
 This is the Slider Plugin I always wished I had. Simply install the plugin, add some slides & use your slider! It's that easy.
 
-**Premium Support is available. Just simply make a donation of $5 or more through the plugin's Settings page and then visit [Captain Theme Premium Support](http://captaintheme.com/support/). Please quote your transaction number or use the email you made the donation with. Thank you!**
 
 **Features:**
 
