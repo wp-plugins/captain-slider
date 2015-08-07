@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Captain Slider
-Plugin URI: http://captaintheme.com/plugins/captain-slider/
+Plugin URI: http://github.com/bryceadams/captain-slider/
 Description: Allows you to easily create multiple jQuery sliders.
-Author: Captain Theme
-Author URI: http://captaintheme.com
+Author: Bryce Adams
+Author URI: http://bryceadams.com
 Version: 1.0.6
 Text Domain: ctslider
 License: GNU GPL v2

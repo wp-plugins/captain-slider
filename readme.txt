@@ -1,6 +1,6 @@
 === Captain Slider ===
-Contributors: captaintheme
-Donate link: http://captaintheme.com/
+Contributors: bryceadams
+Donate link: http://bryceadams.com/
 Tags: captain theme, captain slider, slider, jquery slider, responsive slider, slideshow, video slider, mobile slider, flexslider, custom post types, Image Rotator, image slider, image slider plugin, javascript rotator, javascript slider, jquery rotator, photo rotator, Photo Slider, picture slider, responsive, responsive image slider, responsive image slider plugin, responsive rotator, responsive slider plugin, responsive slideshow, responsive slideshow plugin, rotator, shortcode, slider plugin, slideshow plugin, slider shortcode
 Requires at least: 3.3
 Tested up to: 4.0
@@ -33,13 +33,12 @@ This is the Slider Plugin I always wished I had. Simply install the plugin, add 
 
 **Credits:**
 
-* Made by [Captain Theme](http://captaintheme.com/)
 * Uses [Flexslider](http://woothemes.com/flexslider/)
 
 **Documentation:**
-[Captain Slider Documentation](http://cpthe.me/sliderdocs)
+[Captain Slider Documentation](https://github.com/bryceadams/Captain-Slider/wiki)
 
-*This plugin is being actively developed and improved in it's [GitHub Repository](https://github.com/bryceadams/Captain-Slider/)*
+*This plugin is on [GitHub](https://github.com/bryceadams/Captain-Slider/)*
 
 == Installation ==
 
@@ -61,8 +60,6 @@ How to install this plugin?
 = My slider’s just not displaying! = If you’ve done everything else right and it’s still not displaying, you’re probably having a jQuery conflict with another plugin/theme. Try reverting back to the default Twenty Eleven or Twenty Twelve theme and disabling each plugin one by one.
 = Can I display multiple sliders on one page? = Why yes you can!
 = Which slider does Captain Slider use? = Captain Slider proudly uses the lovely [Flex Slider](http://woothemes.com/flexslider/) by [WooThemes](http://woothemes.com/)
-= How can I say thanks Captain Theme? =
-How sweet of you. Anything from a small donation (made through the Captain Slider settings page) to a link to Captain Theme (http://captaintheme.com/) on your site helps!
 == Screenshots ==
 
 1. The Add New Slide Page - captions/links/video inputs etc.
